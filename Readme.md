@@ -1,6 +1,6 @@
 client side live link : [https://popular-travels-developmen-taskt.vercel.app/](https://popular-travels-developmen-taskt.vercel.app/)
 
-server side code : [https://github.com/mdshaharulsiyam/Popular-Travels-Developmen-taskt](https://github.com/mdshaharulsiyam/Popular-Travels-Developmen-taskt)
+client side code : [https://github.com/mdshaharulsiyam/Popular-Travels-Developmen-taskt](https://github.com/mdshaharulsiyam/Popular-Travels-Developmen-taskt)
 
 ## **how to run in local machine**
 
